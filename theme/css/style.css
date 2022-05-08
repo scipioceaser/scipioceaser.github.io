@@ -1,0 +1,20 @@
+.header {
+    background-color: #aa00bb;
+    align: center;
+    text-align: center;
+}
+
+.header a {
+    font-size: 20px;
+    text-color: #a1fc03;
+}
+
+.articles {
+    align: center;
+    text-align: center;
+}
+
+.posts {
+    text-color: #a1fc03;
+    list-style-type: circle;
+}
